@@ -37,8 +37,8 @@ if (operations == "x"){
     std::cout<<"Made by Mustafa Berisha In 2026, for live hackclub."<< std::endl;
 
 
-    cin.ignore(); 
-    cin.get(); 
+    std::cin.ignore(); 
+    std::cin.get(); 
 }
 
 
